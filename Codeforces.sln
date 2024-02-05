@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VanyaAndFence", "VanyaAndFe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueAtTheSchool", "QueueAtTheSchool\QueueAtTheSchool.csproj", "{47061E8B-0D3F-45EC-8A8F-767476E89E78}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeautifulYear", "BeautifulYear\BeautifulYear.csproj", "{D759E57E-30AF-4A51-9EE2-EB22D1C1894C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{47061E8B-0D3F-45EC-8A8F-767476E89E78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47061E8B-0D3F-45EC-8A8F-767476E89E78}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47061E8B-0D3F-45EC-8A8F-767476E89E78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D759E57E-30AF-4A51-9EE2-EB22D1C1894C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D759E57E-30AF-4A51-9EE2-EB22D1C1894C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D759E57E-30AF-4A51-9EE2-EB22D1C1894C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D759E57E-30AF-4A51-9EE2-EB22D1C1894C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
