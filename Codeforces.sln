@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WrongSubtraction", "WrongSu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NearlyLuckyNumber", "NearlyLuckyNumber\NearlyLuckyNumber.csproj", "{A35CF344-B30A-4544-8250-ACB602A4236E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AntonAndDanik", "AntonAndDanik\AntonAndDanik.csproj", "{7C1A8341-42E1-43A7-B6C9-B92371ED01B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{A35CF344-B30A-4544-8250-ACB602A4236E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A35CF344-B30A-4544-8250-ACB602A4236E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A35CF344-B30A-4544-8250-ACB602A4236E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C1A8341-42E1-43A7-B6C9-B92371ED01B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C1A8341-42E1-43A7-B6C9-B92371ED01B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C1A8341-42E1-43A7-B6C9-B92371ED01B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C1A8341-42E1-43A7-B6C9-B92371ED01B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
