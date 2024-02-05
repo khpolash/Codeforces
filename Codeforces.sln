@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueAtTheSchool", "QueueAt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeautifulYear", "BeautifulYear\BeautifulYear.csproj", "{D759E57E-30AF-4A51-9EE2-EB22D1C1894C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InSearchOfAnEasyProblem", "InSearchOfAnEasyProblem\InSearchOfAnEasyProblem.csproj", "{83B0350B-FDA1-4E4D-B9BF-7DC9A99478B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{D759E57E-30AF-4A51-9EE2-EB22D1C1894C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D759E57E-30AF-4A51-9EE2-EB22D1C1894C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D759E57E-30AF-4A51-9EE2-EB22D1C1894C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83B0350B-FDA1-4E4D-B9BF-7DC9A99478B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83B0350B-FDA1-4E4D-B9BF-7DC9A99478B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83B0350B-FDA1-4E4D-B9BF-7DC9A99478B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83B0350B-FDA1-4E4D-B9BF-7DC9A99478B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
