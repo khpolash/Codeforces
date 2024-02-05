@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeautifulYear", "BeautifulY
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InSearchOfAnEasyProblem", "InSearchOfAnEasyProblem\InSearchOfAnEasyProblem.csproj", "{83B0350B-FDA1-4E4D-B9BF-7DC9A99478B4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeorgeAndAccommodation", "GeorgeAndAccommodation\GeorgeAndAccommodation.csproj", "{94A1450E-4BAD-41A7-8621-8130002CCF2E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{83B0350B-FDA1-4E4D-B9BF-7DC9A99478B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83B0350B-FDA1-4E4D-B9BF-7DC9A99478B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83B0350B-FDA1-4E4D-B9BF-7DC9A99478B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94A1450E-4BAD-41A7-8621-8130002CCF2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94A1450E-4BAD-41A7-8621-8130002CCF2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94A1450E-4BAD-41A7-8621-8130002CCF2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94A1450E-4BAD-41A7-8621-8130002CCF2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
