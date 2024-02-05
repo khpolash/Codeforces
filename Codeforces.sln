@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Translation", "Translation\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tram", "Tram\Tram.csproj", "{2C13E7F4-03BA-425F-ABF7-1D6158112544}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VanyaAndFence", "VanyaAndFence\VanyaAndFence.csproj", "{AE30A1F8-D0C9-4E4B-BF99-560EABB4872D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{2C13E7F4-03BA-425F-ABF7-1D6158112544}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C13E7F4-03BA-425F-ABF7-1D6158112544}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C13E7F4-03BA-425F-ABF7-1D6158112544}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE30A1F8-D0C9-4E4B-BF99-560EABB4872D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE30A1F8-D0C9-4E4B-BF99-560EABB4872D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE30A1F8-D0C9-4E4B-BF99-560EABB4872D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE30A1F8-D0C9-4E4B-BF99-560EABB4872D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
