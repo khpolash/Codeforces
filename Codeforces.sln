@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NearlyLuckyNumber", "Nearly
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AntonAndDanik", "AntonAndDanik\AntonAndDanik.csproj", "{7C1A8341-42E1-43A7-B6C9-B92371ED01B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Translation", "Translation\Translation.csproj", "{3D87A8B3-DC80-4B4E-947B-6694EDB0CCA9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{7C1A8341-42E1-43A7-B6C9-B92371ED01B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C1A8341-42E1-43A7-B6C9-B92371ED01B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C1A8341-42E1-43A7-B6C9-B92371ED01B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D87A8B3-DC80-4B4E-947B-6694EDB0CCA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D87A8B3-DC80-4B4E-947B-6694EDB0CCA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D87A8B3-DC80-4B4E-947B-6694EDB0CCA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D87A8B3-DC80-4B4E-947B-6694EDB0CCA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
