@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatingFunction", "Calc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drinks", "Drinks\Drinks.csproj", "{B0AD0A00-6520-4179-B4F5-32442EC9025D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ultra-FastMathematician", "Ultra-FastMathematician\Ultra-FastMathematician.csproj", "{1E7CB9D5-ACBC-48E5-B6C2-2C60B8393896}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{B0AD0A00-6520-4179-B4F5-32442EC9025D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0AD0A00-6520-4179-B4F5-32442EC9025D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0AD0A00-6520-4179-B4F5-32442EC9025D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E7CB9D5-ACBC-48E5-B6C2-2C60B8393896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E7CB9D5-ACBC-48E5-B6C2-2C60B8393896}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E7CB9D5-ACBC-48E5-B6C2-2C60B8393896}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E7CB9D5-ACBC-48E5-B6C2-2C60B8393896}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
