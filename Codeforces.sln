@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StonesOnTheTable", "StonesO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BearAndBigBrother", "BearAndBigBrother\BearAndBigBrother.csproj", "{BC5A68BB-FEA8-4C4C-B237-19A4CF9C74CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elephant", "Elephant\Elephant.csproj", "{912274E6-783C-4CBD-8BE3-81C7C6FDF180}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{BC5A68BB-FEA8-4C4C-B237-19A4CF9C74CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC5A68BB-FEA8-4C4C-B237-19A4CF9C74CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC5A68BB-FEA8-4C4C-B237-19A4CF9C74CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{912274E6-783C-4CBD-8BE3-81C7C6FDF180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{912274E6-783C-4CBD-8BE3-81C7C6FDF180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{912274E6-783C-4CBD-8BE3-81C7C6FDF180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{912274E6-783C-4CBD-8BE3-81C7C6FDF180}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
