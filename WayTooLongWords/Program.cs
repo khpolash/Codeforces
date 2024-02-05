@@ -1,5 +1,4 @@
 ﻿
-
 int n = int.Parse(Console.ReadLine()!);
 
 for (int i = 0; i < n; i++)
@@ -20,3 +19,4 @@ static string AbbreviateIfTooLong(string word)
         return word;
     }
 }
+
