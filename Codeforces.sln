@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BearAndBigBrother", "BearAn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elephant", "Elephant\Elephant.csproj", "{912274E6-783C-4CBD-8BE3-81C7C6FDF180}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoldierAndBananas", "SoldierAndBananas\SoldierAndBananas.csproj", "{5CC3E42F-8851-4588-B2E5-1E28AA510927}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{912274E6-783C-4CBD-8BE3-81C7C6FDF180}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{912274E6-783C-4CBD-8BE3-81C7C6FDF180}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{912274E6-783C-4CBD-8BE3-81C7C6FDF180}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CC3E42F-8851-4588-B2E5-1E28AA510927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CC3E42F-8851-4588-B2E5-1E28AA510927}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CC3E42F-8851-4588-B2E5-1E28AA510927}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CC3E42F-8851-4588-B2E5-1E28AA510927}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
