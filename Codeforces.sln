@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextRound", "NextRound\Next
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitPlusPlus", "BitPlusPlus\BitPlusPlus.csproj", "{350FD9ED-7E10-4301-9BEE-DC69A186D09C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DominoPiling", "DominoPiling\DominoPiling.csproj", "{93C870D9-DD31-45C7-A648-7F5C01629517}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{350FD9ED-7E10-4301-9BEE-DC69A186D09C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{350FD9ED-7E10-4301-9BEE-DC69A186D09C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{350FD9ED-7E10-4301-9BEE-DC69A186D09C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93C870D9-DD31-45C7-A648-7F5C01629517}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93C870D9-DD31-45C7-A648-7F5C01629517}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93C870D9-DD31-45C7-A648-7F5C01629517}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93C870D9-DD31-45C7-A648-7F5C01629517}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
