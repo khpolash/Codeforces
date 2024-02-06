@@ -95,6 +95,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoxAndSnake", "FoxAndSnake\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoliceRecruits", "PoliceRecruits\PoliceRecruits.csproj", "{45E33A9D-610F-45AC-A243-B882376B5303}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IloveUsername", "IloveUsername\IloveUsername.csproj", "{6B2938D5-ED13-417E-B400-FA7BE49469D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -285,6 +287,10 @@ Global
 		{45E33A9D-610F-45AC-A243-B882376B5303}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45E33A9D-610F-45AC-A243-B882376B5303}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45E33A9D-610F-45AC-A243-B882376B5303}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B2938D5-ED13-417E-B400-FA7BE49469D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B2938D5-ED13-417E-B400-FA7BE49469D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B2938D5-ED13-417E-B400-FA7BE49469D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B2938D5-ED13-417E-B400-FA7BE49469D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
