@@ -101,6 +101,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfRoundNumbers", "SumOfR
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewYearAndHurry", "NewYearAndHurry\NewYearAndHurry.csproj", "{8609C1E0-0A32-41EF-8692-092E2D1E7B4B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheNewYearMeetingFriends", "TheNewYearMeetingFriends\TheNewYearMeetingFriends.csproj", "{B4BBFE44-51E0-4916-A504-B486C90AB542}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -303,6 +305,10 @@ Global
 		{8609C1E0-0A32-41EF-8692-092E2D1E7B4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8609C1E0-0A32-41EF-8692-092E2D1E7B4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8609C1E0-0A32-41EF-8692-092E2D1E7B4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4BBFE44-51E0-4916-A504-B486C90AB542}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4BBFE44-51E0-4916-A504-B486C90AB542}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4BBFE44-51E0-4916-A504-B486C90AB542}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4BBFE44-51E0-4916-A504-B486C90AB542}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
