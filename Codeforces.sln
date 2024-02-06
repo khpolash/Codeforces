@@ -99,6 +99,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IloveUsername", "IloveUsern
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfRoundNumbers", "SumOfRoundNumbers\SumOfRoundNumbers.csproj", "{B6611516-458B-4192-B302-C8EB2BF52933}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewYearAndHurry", "NewYearAndHurry\NewYearAndHurry.csproj", "{8609C1E0-0A32-41EF-8692-092E2D1E7B4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -297,6 +299,10 @@ Global
 		{B6611516-458B-4192-B302-C8EB2BF52933}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6611516-458B-4192-B302-C8EB2BF52933}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6611516-458B-4192-B302-C8EB2BF52933}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8609C1E0-0A32-41EF-8692-092E2D1E7B4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8609C1E0-0A32-41EF-8692-092E2D1E7B4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8609C1E0-0A32-41EF-8692-092E2D1E7B4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8609C1E0-0A32-41EF-8692-092E2D1E7B4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
