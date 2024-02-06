@@ -73,6 +73,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivisibilityProblem", "Divi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IWannaBeTheGuy", "IWannaBeTheGuy\IWannaBeTheGuy.csproj", "{7EF84D8D-272C-489E-B667-C120C180BCFD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrivalOfTheGeneral", "ArrivalOfTheGeneral\ArrivalOfTheGeneral.csproj", "{9B311099-32E6-4117-831D-5E6CA056F702}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -219,6 +221,10 @@ Global
 		{7EF84D8D-272C-489E-B667-C120C180BCFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EF84D8D-272C-489E-B667-C120C180BCFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EF84D8D-272C-489E-B667-C120C180BCFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B311099-32E6-4117-831D-5E6CA056F702}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B311099-32E6-4117-831D-5E6CA056F702}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B311099-32E6-4117-831D-5E6CA056F702}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B311099-32E6-4117-831D-5E6CA056F702}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
