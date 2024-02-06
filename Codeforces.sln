@@ -91,6 +91,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CandiesAndTwoSisters", "Can
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmusingJoke", "AmusingJoke\AmusingJoke.csproj", "{EA3E3A1F-6152-4510-AD7D-02A210028754}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoxAndSnake", "FoxAndSnake\FoxAndSnake.csproj", "{C5100019-351D-4301-ADB0-FBD98553FAC1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -273,6 +275,10 @@ Global
 		{EA3E3A1F-6152-4510-AD7D-02A210028754}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA3E3A1F-6152-4510-AD7D-02A210028754}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA3E3A1F-6152-4510-AD7D-02A210028754}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5100019-351D-4301-ADB0-FBD98553FAC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5100019-351D-4301-ADB0-FBD98553FAC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5100019-351D-4301-ADB0-FBD98553FAC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5100019-351D-4301-ADB0-FBD98553FAC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
