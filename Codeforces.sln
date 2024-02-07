@@ -75,35 +75,39 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IWannaBeTheGuy", "IWannaBeT
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrivalOfTheGeneral", "ArrivalOfTheGeneral\ArrivalOfTheGeneral.csproj", "{9B311099-32E6-4117-831D-5E6CA056F702}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pangram", "Pangram\Pangram.csproj", "{1DE5E05B-4EA3-4A4B-AB86-C222721B3008}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pangram", "Pangram\Pangram.csproj", "{1DE5E05B-4EA3-4A4B-AB86-C222721B3008}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsomniaCure", "InsomniaCure\InsomniaCure.csproj", "{735CDF68-1CDC-40D6-9C4B-4D88917696D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InsomniaCure", "InsomniaCure\InsomniaCure.csproj", "{735CDF68-1CDC-40D6-9C4B-4D88917696D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AntonAndLetters", "AntonAndLetters\AntonAndLetters.csproj", "{CFB37590-60A0-4DD5-BE62-07E0F78D6116}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AntonAndLetters", "AntonAndLetters\AntonAndLetters.csproj", "{CFB37590-60A0-4DD5-BE62-07E0F78D6116}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HitTheLottery", "HitTheLottery\HitTheLottery.csproj", "{F7953726-8B26-4B9E-A9D0-14C9FAAFE502}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HitTheLottery", "HitTheLottery\HitTheLottery.csproj", "{F7953726-8B26-4B9E-A9D0-14C9FAAFE502}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AntonAndPolyhedrons", "AntonAndPolyhedrons\AntonAndPolyhedrons.csproj", "{C3E020A1-15B5-4C1A-ACA0-A7235A08A664}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AntonAndPolyhedrons", "AntonAndPolyhedrons\AntonAndPolyhedrons.csproj", "{C3E020A1-15B5-4C1A-ACA0-A7235A08A664}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Games", "Games\Games.csproj", "{E2DA7078-5765-4D38-ABE5-73116786251A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Games", "Games\Games.csproj", "{E2DA7078-5765-4D38-ABE5-73116786251A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CandiesAndTwoSisters", "CandiesAndTwoSisters\CandiesAndTwoSisters.csproj", "{D9C10E7C-4656-4AF1-BD72-A3E5339C89FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CandiesAndTwoSisters", "CandiesAndTwoSisters\CandiesAndTwoSisters.csproj", "{D9C10E7C-4656-4AF1-BD72-A3E5339C89FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmusingJoke", "AmusingJoke\AmusingJoke.csproj", "{EA3E3A1F-6152-4510-AD7D-02A210028754}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AmusingJoke", "AmusingJoke\AmusingJoke.csproj", "{EA3E3A1F-6152-4510-AD7D-02A210028754}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoxAndSnake", "FoxAndSnake\FoxAndSnake.csproj", "{C5100019-351D-4301-ADB0-FBD98553FAC1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FoxAndSnake", "FoxAndSnake\FoxAndSnake.csproj", "{C5100019-351D-4301-ADB0-FBD98553FAC1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoliceRecruits", "PoliceRecruits\PoliceRecruits.csproj", "{45E33A9D-610F-45AC-A243-B882376B5303}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PoliceRecruits", "PoliceRecruits\PoliceRecruits.csproj", "{45E33A9D-610F-45AC-A243-B882376B5303}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IloveUsername", "IloveUsername\IloveUsername.csproj", "{6B2938D5-ED13-417E-B400-FA7BE49469D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IloveUsername", "IloveUsername\IloveUsername.csproj", "{6B2938D5-ED13-417E-B400-FA7BE49469D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfRoundNumbers", "SumOfRoundNumbers\SumOfRoundNumbers.csproj", "{B6611516-458B-4192-B302-C8EB2BF52933}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumOfRoundNumbers", "SumOfRoundNumbers\SumOfRoundNumbers.csproj", "{B6611516-458B-4192-B302-C8EB2BF52933}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewYearAndHurry", "NewYearAndHurry\NewYearAndHurry.csproj", "{8609C1E0-0A32-41EF-8692-092E2D1E7B4B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewYearAndHurry", "NewYearAndHurry\NewYearAndHurry.csproj", "{8609C1E0-0A32-41EF-8692-092E2D1E7B4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheNewYearMeetingFriends", "TheNewYearMeetingFriends\TheNewYearMeetingFriends.csproj", "{B4BBFE44-51E0-4916-A504-B486C90AB542}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheNewYearMeetingFriends", "TheNewYearMeetingFriends\TheNewYearMeetingFriends.csproj", "{B4BBFE44-51E0-4916-A504-B486C90AB542}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VasyaTheHipster", "VasyaTheHipster\VasyaTheHipster.csproj", "{3FA0FA42-A961-49DC-9B81-66B53909E634}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VasyaTheHipster", "VasyaTheHipster\VasyaTheHipster.csproj", "{3FA0FA42-A961-49DC-9B81-66B53909E634}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuyAShovel", "BuyAShovel\BuyAShovel.csproj", "{12F6BCDF-CF18-4879-88D3-45E701284263}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestoringThreeNumbers", "RestoringThreeNumbers\RestoringThreeNumbers.csproj", "{08DFB999-E0A1-4086-94A1-5003BC9FC1EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -315,6 +319,14 @@ Global
 		{3FA0FA42-A961-49DC-9B81-66B53909E634}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FA0FA42-A961-49DC-9B81-66B53909E634}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FA0FA42-A961-49DC-9B81-66B53909E634}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12F6BCDF-CF18-4879-88D3-45E701284263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12F6BCDF-CF18-4879-88D3-45E701284263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12F6BCDF-CF18-4879-88D3-45E701284263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12F6BCDF-CF18-4879-88D3-45E701284263}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08DFB999-E0A1-4086-94A1-5003BC9FC1EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08DFB999-E0A1-4086-94A1-5003BC9FC1EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08DFB999-E0A1-4086-94A1-5003BC9FC1EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08DFB999-E0A1-4086-94A1-5003BC9FC1EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
