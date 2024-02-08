@@ -1,6 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using System.Numerics;
-
 Console.WriteLine("Codeforce Problem NO: 1742A Sum");
 Console.WriteLine("==================================\t");
 
