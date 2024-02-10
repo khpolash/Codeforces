@@ -109,15 +109,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuyAShovel", "BuyAShovel\Bu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestoringThreeNumbers", "RestoringThreeNumbers\RestoringThreeNumbers.csproj", "{08DFB999-E0A1-4086-94A1-5003BC9FC1EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftDrinking", "SoftDrinking\SoftDrinking.csproj", "{317FF3F9-AFB7-4C0E-9671-1BF654992648}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoftDrinking", "SoftDrinking\SoftDrinking.csproj", "{317FF3F9-AFB7-4C0E-9671-1BF654992648}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveSmallest", "RemoveSmallest\RemoveSmallest.csproj", "{0B484588-6695-423D-BE13-414C29FE675B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveSmallest", "RemoveSmallest\RemoveSmallest.csproj", "{0B484588-6695-423D-BE13-414C29FE675B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YetAnotherTwoIntegersProblem", "YetAnotherTwoIntegersProblem\YetAnotherTwoIntegersProblem.csproj", "{107178DC-22E7-416B-8149-E97F9D1CE812}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YetAnotherTwoIntegersProblem", "YetAnotherTwoIntegersProblem\YetAnotherTwoIntegersProblem.csproj", "{107178DC-22E7-416B-8149-E97F9D1CE812}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum", "Sum\Sum.csproj", "{DDE8A7E1-8286-450B-9A69-E73CE74FA26A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum", "Sum\Sum.csproj", "{DDE8A7E1-8286-450B-9A69-E73CE74FA26A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgainTwentyFive", "AgainTwentyFive\AgainTwentyFive.csproj", "{819C49A7-C97D-472F-97A8-FE4FD43EE6B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AgainTwentyFive", "AgainTwentyFive\AgainTwentyFive.csproj", "{819C49A7-C97D-472F-97A8-FE4FD43EE6B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YESORYES", "YESORYES\YESORYES.csproj", "{ADAA3133-AF28-46D7-B1BF-17F04093009E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -357,6 +359,10 @@ Global
 		{819C49A7-C97D-472F-97A8-FE4FD43EE6B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{819C49A7-C97D-472F-97A8-FE4FD43EE6B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{819C49A7-C97D-472F-97A8-FE4FD43EE6B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADAA3133-AF28-46D7-B1BF-17F04093009E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADAA3133-AF28-46D7-B1BF-17F04093009E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADAA3133-AF28-46D7-B1BF-17F04093009E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADAA3133-AF28-46D7-B1BF-17F04093009E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
