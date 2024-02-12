@@ -153,6 +153,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusOrMinus", "PlusOrMinus\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeforcesChecking", "CodeforcesChecking\CodeforcesChecking.csproj", "{129A5BA2-B5DF-4830-9762-F8016BD97F39}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DieRoll", "DieRoll\DieRoll.csproj", "{B5454258-5E36-4B8F-93A1-F10CB8DC434C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -459,6 +461,10 @@ Global
 		{129A5BA2-B5DF-4830-9762-F8016BD97F39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{129A5BA2-B5DF-4830-9762-F8016BD97F39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{129A5BA2-B5DF-4830-9762-F8016BD97F39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5454258-5E36-4B8F-93A1-F10CB8DC434C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5454258-5E36-4B8F-93A1-F10CB8DC434C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5454258-5E36-4B8F-93A1-F10CB8DC434C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5454258-5E36-4B8F-93A1-F10CB8DC434C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
