@@ -149,19 +149,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BalancedArray", "BalancedAr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MishkaAndGame", "MishkaAndGame\MishkaAndGame.csproj", "{80967938-FE31-462E-97C4-CCA6C1DAACB1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusOrMinus", "PlusOrMinus\PlusOrMinus.csproj", "{DEB21A84-02B8-4432-B72C-AE3129F8E766}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlusOrMinus", "PlusOrMinus\PlusOrMinus.csproj", "{DEB21A84-02B8-4432-B72C-AE3129F8E766}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeforcesChecking", "CodeforcesChecking\CodeforcesChecking.csproj", "{129A5BA2-B5DF-4830-9762-F8016BD97F39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeforcesChecking", "CodeforcesChecking\CodeforcesChecking.csproj", "{129A5BA2-B5DF-4830-9762-F8016BD97F39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DieRoll", "DieRoll\DieRoll.csproj", "{B5454258-5E36-4B8F-93A1-F10CB8DC434C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DieRoll", "DieRoll\DieRoll.csproj", "{B5454258-5E36-4B8F-93A1-F10CB8DC434C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediumNumber", "MediumNumber\MediumNumber.csproj", "{0681E858-40BF-40D2-A72C-7DF19AC8B8AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MediumNumber", "MediumNumber\MediumNumber.csproj", "{0681E858-40BF-40D2-A72C-7DF19AC8B8AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackSquare", "BlackSquare\BlackSquare.csproj", "{CB8AE0EE-4B3C-405F-AE50-CAD4CE7FAAEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlackSquare", "BlackSquare\BlackSquare.csproj", "{CB8AE0EE-4B3C-405F-AE50-CAD4CE7FAAEE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RequiredRemainder", "RequiredRemainder\RequiredRemainder.csproj", "{90F95346-8F53-427B-B8D2-C73362120CEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RequiredRemainder", "RequiredRemainder\RequiredRemainder.csproj", "{90F95346-8F53-427B-B8D2-C73362120CEF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenArray", "EvenArray\EvenArray.csproj", "{F0AE8ECA-8C82-4817-B9E8-F7AE4CD12F31}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EvenArray", "EvenArray\EvenArray.csproj", "{F0AE8ECA-8C82-4817-B9E8-F7AE4CD12F31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoNotBeDistracted", "DoNotBeDistracted\DoNotBeDistracted.csproj", "{9C23A84A-44AD-46D0-9AC2-6C92A89580C6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -489,6 +491,10 @@ Global
 		{F0AE8ECA-8C82-4817-B9E8-F7AE4CD12F31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0AE8ECA-8C82-4817-B9E8-F7AE4CD12F31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0AE8ECA-8C82-4817-B9E8-F7AE4CD12F31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C23A84A-44AD-46D0-9AC2-6C92A89580C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C23A84A-44AD-46D0-9AC2-6C92A89580C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C23A84A-44AD-46D0-9AC2-6C92A89580C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C23A84A-44AD-46D0-9AC2-6C92A89580C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
