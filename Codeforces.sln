@@ -175,7 +175,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaximumGCD", "MaximumGCD\Ma
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PolycarpAndCoins", "PolycarpAndCoins\PolycarpAndCoins.csproj", "{5035A93B-F004-43A8-B313-2008FDBB64B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalSquare", "MinimalSquare\MinimalSquare.csproj", "{3CBB95E4-6BA8-4A84-9B4A-E3614ECB74E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimalSquare", "MinimalSquare\MinimalSquare.csproj", "{3CBB95E4-6BA8-4A84-9B4A-E3614ECB74E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareString", "SquareString\SquareString.csproj", "{D23846C3-2587-4C34-A29F-094BCED92D4A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -531,6 +533,10 @@ Global
 		{3CBB95E4-6BA8-4A84-9B4A-E3614ECB74E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CBB95E4-6BA8-4A84-9B4A-E3614ECB74E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CBB95E4-6BA8-4A84-9B4A-E3614ECB74E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D23846C3-2587-4C34-A29F-094BCED92D4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D23846C3-2587-4C34-A29F-094BCED92D4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D23846C3-2587-4C34-A29F-094BCED92D4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D23846C3-2587-4C34-A29F-094BCED92D4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
