@@ -183,6 +183,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoArraysAndSwaps", "TwoArr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToMyCritics", "ToMyCritics\ToMyCritics.csproj", "{CC4A790F-7960-48BA-B00E-4BE06DC76E39}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FairDivision", "FairDivision\FairDivision.csproj", "{8AE4EE1F-4258-47AE-8811-8325E6830F8B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -549,6 +551,10 @@ Global
 		{CC4A790F-7960-48BA-B00E-4BE06DC76E39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC4A790F-7960-48BA-B00E-4BE06DC76E39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC4A790F-7960-48BA-B00E-4BE06DC76E39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AE4EE1F-4258-47AE-8811-8325E6830F8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AE4EE1F-4258-47AE-8811-8325E6830F8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AE4EE1F-4258-47AE-8811-8325E6830F8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AE4EE1F-4258-47AE-8811-8325E6830F8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
