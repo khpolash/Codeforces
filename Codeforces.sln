@@ -179,6 +179,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimalSquare", "MinimalSqu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareString", "SquareString\SquareString.csproj", "{D23846C3-2587-4C34-A29F-094BCED92D4A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoArraysAndSwaps", "TwoArraysAndSwaps\TwoArraysAndSwaps.csproj", "{AD9ED2A0-B7B0-4181-9795-7D69830EB235}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -537,6 +539,10 @@ Global
 		{D23846C3-2587-4C34-A29F-094BCED92D4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D23846C3-2587-4C34-A29F-094BCED92D4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D23846C3-2587-4C34-A29F-094BCED92D4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD9ED2A0-B7B0-4181-9795-7D69830EB235}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD9ED2A0-B7B0-4181-9795-7D69830EB235}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD9ED2A0-B7B0-4181-9795-7D69830EB235}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD9ED2A0-B7B0-4181-9795-7D69830EB235}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
