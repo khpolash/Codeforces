@@ -171,9 +171,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BoringApartments", "BoringA
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Panoramix'sPrediction", "Panoramix'sPrediction\Panoramix'sPrediction.csproj", "{63128174-86F1-468C-89C3-CA469C8AC0EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumGCD", "MaximumGCD\MaximumGCD.csproj", "{E42DB208-5722-4172-8AFA-24CB535C0CC1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaximumGCD", "MaximumGCD\MaximumGCD.csproj", "{E42DB208-5722-4172-8AFA-24CB535C0CC1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolycarpAndCoins", "PolycarpAndCoins\PolycarpAndCoins.csproj", "{5035A93B-F004-43A8-B313-2008FDBB64B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PolycarpAndCoins", "PolycarpAndCoins\PolycarpAndCoins.csproj", "{5035A93B-F004-43A8-B313-2008FDBB64B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalSquare", "MinimalSquare\MinimalSquare.csproj", "{0A31223E-2B10-4FD2-903B-8B30E2BF99AB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -525,6 +527,10 @@ Global
 		{5035A93B-F004-43A8-B313-2008FDBB64B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5035A93B-F004-43A8-B313-2008FDBB64B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5035A93B-F004-43A8-B313-2008FDBB64B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A31223E-2B10-4FD2-903B-8B30E2BF99AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A31223E-2B10-4FD2-903B-8B30E2BF99AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A31223E-2B10-4FD2-903B-8B30E2BF99AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A31223E-2B10-4FD2-903B-8B30E2BF99AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
