@@ -6,19 +6,10 @@ int t = int.Parse(Console.ReadLine()!);
 
 for (int i = 0; i < t; i++)
 {
-    double n = double.Parse(Console.ReadLine()!);
+    int n = int.Parse(Console.ReadLine()!);
 
-    double c1 = Math.Ceiling(n / 3);
-    double c2 = Math.Floor((n - c1) / 2);
+    int c2 = n / 3;
+    int c1 = n - c2 * 2;
 
-    if (c1 + 2 * c2 == n)
-    {
-        Console.WriteLine($"{c1} {c2}");
-    }
-    else
-    {
-        Console.WriteLine($"{c2} {c1}");
-    }
-
-
+    Console.WriteLine($"{c1} {c2}");
 }
