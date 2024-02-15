@@ -181,6 +181,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareString", "SquareStrin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoArraysAndSwaps", "TwoArraysAndSwaps\TwoArraysAndSwaps.csproj", "{AD9ED2A0-B7B0-4181-9795-7D69830EB235}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToMyCritics", "ToMyCritics\ToMyCritics.csproj", "{CC4A790F-7960-48BA-B00E-4BE06DC76E39}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -543,6 +545,10 @@ Global
 		{AD9ED2A0-B7B0-4181-9795-7D69830EB235}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD9ED2A0-B7B0-4181-9795-7D69830EB235}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD9ED2A0-B7B0-4181-9795-7D69830EB235}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC4A790F-7960-48BA-B00E-4BE06DC76E39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC4A790F-7960-48BA-B00E-4BE06DC76E39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC4A790F-7960-48BA-B00E-4BE06DC76E39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC4A790F-7960-48BA-B00E-4BE06DC76E39}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
