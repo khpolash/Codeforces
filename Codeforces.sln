@@ -177,13 +177,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PolycarpAndCoins", "Polycar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimalSquare", "MinimalSquare\MinimalSquare.csproj", "{3CBB95E4-6BA8-4A84-9B4A-E3614ECB74E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareString", "SquareString\SquareString.csproj", "{D23846C3-2587-4C34-A29F-094BCED92D4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SquareString", "SquareString\SquareString.csproj", "{D23846C3-2587-4C34-A29F-094BCED92D4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoArraysAndSwaps", "TwoArraysAndSwaps\TwoArraysAndSwaps.csproj", "{AD9ED2A0-B7B0-4181-9795-7D69830EB235}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoArraysAndSwaps", "TwoArraysAndSwaps\TwoArraysAndSwaps.csproj", "{AD9ED2A0-B7B0-4181-9795-7D69830EB235}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToMyCritics", "ToMyCritics\ToMyCritics.csproj", "{CC4A790F-7960-48BA-B00E-4BE06DC76E39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToMyCritics", "ToMyCritics\ToMyCritics.csproj", "{CC4A790F-7960-48BA-B00E-4BE06DC76E39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FairDivision", "FairDivision\FairDivision.csproj", "{8AE4EE1F-4258-47AE-8811-8325E6830F8B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FairDivision", "FairDivision\FairDivision.csproj", "{8AE4EE1F-4258-47AE-8811-8325E6830F8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BachgoldProblem", "BachgoldProblem\BachgoldProblem.csproj", "{4FF81DF0-20AB-4C33-8D2C-3FEBB891C8FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -555,6 +557,10 @@ Global
 		{8AE4EE1F-4258-47AE-8811-8325E6830F8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AE4EE1F-4258-47AE-8811-8325E6830F8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AE4EE1F-4258-47AE-8811-8325E6830F8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FF81DF0-20AB-4C33-8D2C-3FEBB891C8FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FF81DF0-20AB-4C33-8D2C-3FEBB891C8FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FF81DF0-20AB-4C33-8D2C-3FEBB891C8FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FF81DF0-20AB-4C33-8D2C-3FEBB891C8FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
