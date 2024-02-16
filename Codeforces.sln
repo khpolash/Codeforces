@@ -191,6 +191,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VanyaAndCubes", "VanyaAndCu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FairPlayoff", "FairPlayoff\FairPlayoff.csproj", "{4761B60C-827C-4368-9420-FA15CBAD1D9C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinutesBeforeTheNewYear", "MinutesBeforeTheNewYear\MinutesBeforeTheNewYear.csproj", "{A9AB11CD-2442-4264-9E9B-9A35E2A209F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -573,6 +575,10 @@ Global
 		{4761B60C-827C-4368-9420-FA15CBAD1D9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4761B60C-827C-4368-9420-FA15CBAD1D9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4761B60C-827C-4368-9420-FA15CBAD1D9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9AB11CD-2442-4264-9E9B-9A35E2A209F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9AB11CD-2442-4264-9E9B-9A35E2A209F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9AB11CD-2442-4264-9E9B-9A35E2A209F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9AB11CD-2442-4264-9E9B-9A35E2A209F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
