@@ -189,6 +189,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BachgoldProblem", "Bachgold
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VanyaAndCubes", "VanyaAndCubes\VanyaAndCubes.csproj", "{A388904F-CDC7-449C-8FA0-DC29F6A57B6F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FairPlayoff", "FairPlayoff\FairPlayoff.csproj", "{4761B60C-827C-4368-9420-FA15CBAD1D9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -567,6 +569,10 @@ Global
 		{A388904F-CDC7-449C-8FA0-DC29F6A57B6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A388904F-CDC7-449C-8FA0-DC29F6A57B6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A388904F-CDC7-449C-8FA0-DC29F6A57B6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4761B60C-827C-4368-9420-FA15CBAD1D9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4761B60C-827C-4368-9420-FA15CBAD1D9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4761B60C-827C-4368-9420-FA15CBAD1D9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4761B60C-827C-4368-9420-FA15CBAD1D9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
