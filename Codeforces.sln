@@ -193,6 +193,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FairPlayoff", "FairPlayoff\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinutesBeforeTheNewYear", "MinutesBeforeTheNewYear\MinutesBeforeTheNewYear.csproj", "{A9AB11CD-2442-4264-9E9B-9A35E2A209F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HonestCoach", "HonestCoach\HonestCoach.csproj", "{021A8622-AC89-484E-9CBB-CBAA4ECA2767}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -579,6 +581,10 @@ Global
 		{A9AB11CD-2442-4264-9E9B-9A35E2A209F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9AB11CD-2442-4264-9E9B-9A35E2A209F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9AB11CD-2442-4264-9E9B-9A35E2A209F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{021A8622-AC89-484E-9CBB-CBAA4ECA2767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{021A8622-AC89-484E-9CBB-CBAA4ECA2767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{021A8622-AC89-484E-9CBB-CBAA4ECA2767}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{021A8622-AC89-484E-9CBB-CBAA4ECA2767}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
