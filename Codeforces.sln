@@ -187,13 +187,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FairDivision", "FairDivisio
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BachgoldProblem", "BachgoldProblem\BachgoldProblem.csproj", "{4FF81DF0-20AB-4C33-8D2C-3FEBB891C8FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VanyaAndCubes", "VanyaAndCubes\VanyaAndCubes.csproj", "{A388904F-CDC7-449C-8FA0-DC29F6A57B6F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VanyaAndCubes", "VanyaAndCubes\VanyaAndCubes.csproj", "{A388904F-CDC7-449C-8FA0-DC29F6A57B6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FairPlayoff", "FairPlayoff\FairPlayoff.csproj", "{4761B60C-827C-4368-9420-FA15CBAD1D9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FairPlayoff", "FairPlayoff\FairPlayoff.csproj", "{4761B60C-827C-4368-9420-FA15CBAD1D9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinutesBeforeTheNewYear", "MinutesBeforeTheNewYear\MinutesBeforeTheNewYear.csproj", "{A9AB11CD-2442-4264-9E9B-9A35E2A209F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinutesBeforeTheNewYear", "MinutesBeforeTheNewYear\MinutesBeforeTheNewYear.csproj", "{A9AB11CD-2442-4264-9E9B-9A35E2A209F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HonestCoach", "HonestCoach\HonestCoach.csproj", "{021A8622-AC89-484E-9CBB-CBAA4ECA2767}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HonestCoach", "HonestCoach\HonestCoach.csproj", "{021A8622-AC89-484E-9CBB-CBAA4ECA2767}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brain'sPhotos", "Brain'sPhotos\Brain'sPhotos.csproj", "{7931BA22-CA6E-4E66-8B11-83555C8217EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -585,6 +587,10 @@ Global
 		{021A8622-AC89-484E-9CBB-CBAA4ECA2767}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{021A8622-AC89-484E-9CBB-CBAA4ECA2767}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{021A8622-AC89-484E-9CBB-CBAA4ECA2767}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7931BA22-CA6E-4E66-8B11-83555C8217EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7931BA22-CA6E-4E66-8B11-83555C8217EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7931BA22-CA6E-4E66-8B11-83555C8217EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7931BA22-CA6E-4E66-8B11-83555C8217EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
